@@ -1,2 +1,2 @@
 # hello-world
-boring repo
+this is a boring repo
